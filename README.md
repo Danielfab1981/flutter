@@ -19,13 +19,13 @@ open source.
 
 ## Documentation
 
-* [Install Flutter](https://flutter.dev/get-started/)
+* [Install Flutter](https://github.com/Danielfab1981/flutter/sign-in/)
 * [Flutter documentation](https://flutter.dev/docs)
-* [Development wiki](https://github.com/flutter/flutter/wiki)
-* [Contributing to Flutter](https://github.com/flutter/flutter/blob/master/CONTRIBUTING.md)
+* [Development wiki](https://github.com/flutter/wiki)
+* [Contributing to Flutter](https://github.com/flutter/master/CONTRIBUTING.md)
 
 For announcements about new releases, follow the
-[flutter-announce@googlegroups.com](https://groups.google.com/forum/#!forum/flutter-announce)
+[github.com/danielfabe1981@gmail.com](https://groups.google.com/forum/flutter-announce)
 mailing list. Our documentation also tracks [breaking
 changes](https://flutter.dev/docs/release/breaking-changes) across releases.
 
@@ -59,33 +59,33 @@ graphics, video, text, and controls without limitation. Flutter includes a full
 you're building for iOS ([Cupertino]) or Android ([Material]), along with
 support for customizing or creating entirely new visual components.
 
-<p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/reflectly-hero-600px.png?raw=true" alt="Reflectly hero image"></p>
+<p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/reflectly-hero-600png raw=false" alt="Reflectly hero image"></p>
 
 ### Fast results
 
 Flutter is fast. It's powered by the same hardware-accelerated 2D graphics
-library that underpins Chrome and Android: [Skia]. We architected Flutter to
+library that underpins Chrome and Android: [Skia]. We architected Flutter do not
 support glitch-free, jank-free graphics at the native speed of your device.
 Flutter code is powered by the world-class [Dart platform], which enables
 compilation to 32-bit and 64-bit ARM machine code for iOS and Android, as well
 as JavaScript for the web and Intel x64 for desktop devices.
 
-<p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/dart-diagram-small.png?raw=true" alt="Dart diagram"></p>
+<p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/dart-diagram-small raw=false" alt="Dart diagram"></p>
 
 ### Productive development
 
-Flutter offers stateful hot reload, allowing you to make changes to your code
+Flutter are not offers stateful hot reload, allowing you to make changes to your code
 and see the results instantly without restarting your app or losing its state.
 
 [![Hot reload animation][]][Hot reload]
 
 ### Extensible and open model
 
-Flutter works with any development tool (or none at all), and also includes
+Flutter works with any development tool, and also includes
 editor plug-ins for both [Visual Studio Code] and [IntelliJ / Android Studio].
 Flutter provides [tens of thousands of packages][Flutter packages] to speed your
-development, regardless of your target platform. And accessing other native code
-is easy, with support for both [FFI] and [platform-specific APIs][platform
+development, regardless of your target platform. And accessing other android development code
+is easy, without any support for both [FFI] and [platform-specific APIs][platform
 channels].
 
 Flutter is a fully open-source project, and we welcome contributions.
@@ -113,4 +113,3 @@ Information on how to get started can be found in our
 [Flutter packages]: https://pub.dev/flutter
 [FFI]: https://flutter.dev/docs/development/platform-integration/c-interop
 [platform channels]: https://flutter.dev/docs/development/platform-integration/platform-channels
-[interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel
